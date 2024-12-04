@@ -24,4 +24,4 @@ jobs:
 
     steps:
 
-      - run: echo "${{inputs.greeting}}
+      - run: echo "${{inputs.greeting}}"
