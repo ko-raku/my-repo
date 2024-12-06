@@ -16,4 +16,4 @@ jobs:
 
         env:
 
-          HASH: ${{ hashFile('.github/workflows/*.yml') }}
+          HASH: ${{ hashFiles('.github/workflows/*.yml') }}
