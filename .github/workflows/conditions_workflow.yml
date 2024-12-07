@@ -6,7 +6,7 @@ jobs:
 
   skip-or-run:
 
-    if: ${{ github.actor == 'octocat' }}
+    if: ${{ github.actor == 'yunaction' }}
 
     runs-on: ubuntu-latest
 
