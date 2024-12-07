@@ -20,4 +20,4 @@ jobs:
           
           import os
           
-          printf(os.environ['PATH'])
+          print(os.environ['PATH'])
