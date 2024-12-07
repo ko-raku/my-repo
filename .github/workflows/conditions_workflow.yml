@@ -6,7 +6,7 @@ jobs:
 
   skip-or-run:
 
-    if: ${{ github.actor == 'yunaction' }}
+    if: ${{ github.actor == 'ko-raku' }}
 
     runs-on: ubuntu-latest
 
