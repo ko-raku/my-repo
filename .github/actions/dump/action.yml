@@ -11,7 +11,7 @@ inputs:
 
     required: false
 
-    descritpion: コンテキストをログに出力するか
+    description: コンテキストをログに出力するか
 
 outputs:
 
