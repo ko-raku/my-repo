@@ -12,4 +12,4 @@ jobs:
 
     steps:
 
-      - run: sleep 120
+      - run: sleep 30
